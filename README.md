@@ -85,7 +85,7 @@ The ESP32 is programmed using Arduino IDE to:
 * Connect to Firebase via WiFi
 * Fetch the current queue number from Firebase
 * Display the number on a 16x2 LCD in real time
-* 
+  
 ---
 
 ## ✨ Completed Features
