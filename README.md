@@ -58,21 +58,6 @@ npm install
 * Create a new project
 * Enable **Email/Password Authentication**
 * Create a **Realtime Database**
-* Get your Firebase config and paste it inside both:
-
-```js
-// main-app/src/services/firebaseConfig.js
-// admin-dashboard/src/services/firebaseConfig.js
-const firebaseConfig = {
-  apiKey: "...",
-  authDomain: "...",
-  databaseURL: "...",
-  projectId: "...",
-  storageBucket: "...",
-  messagingSenderId: "...",
-  appId: "..."
-};
-```
 
 ### 4. Run the Apps
 
