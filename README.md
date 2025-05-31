@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🖨️ CyberQueue — Smart Printing Queue Management System
 
 CyberQueue is a real-time smart printing queue system designed to manage printing tasks efficiently in high-demand environments like colleges, offices, and labs. Built using **React.js** for the frontend and **Firebase** for real-time database and authentication, this project also integrates with an **ESP32 microcontroller** to display live queue data on an **LCD display** at the print station.
